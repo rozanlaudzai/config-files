@@ -1,0 +1,6 @@
+[color]
+	ui = auto
+[alias]
+	lg = log --graph --all --oneline
+[core]
+	editor = nvim
